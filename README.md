@@ -1,1 +1,1 @@
-MCP-weather
+weather is a mcp server demo.
